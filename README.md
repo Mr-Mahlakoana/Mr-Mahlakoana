@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; I am a full stack engineear .
 
-- 🎓 &nbsp; I studed Bachelor of Information Technology in business system(BIT).
+- 🎓 &nbsp; I studied Bachelor of Information Technology in business system(BIT).
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design, Web 3.0 
 
